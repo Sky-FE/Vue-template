@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="container">
 
     </div>
 </template>
@@ -24,5 +24,5 @@ export default {
 </script>
 
 <style lang="less" scoped>
-
+@import '../styles/pages/home.less'
 </style>
